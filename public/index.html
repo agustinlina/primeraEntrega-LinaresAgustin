@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <script defer type="module" src="./index.js"></script>
+    <title>Document</title>
+</head>
+
+<body id="root">
+    <form id="formAddProduct" action="" method="post">
+        <div class="input_form">
+            <span># ID del producto</span>
+            <input id="input_id" type="text" value="0" disabled>
+        </div>
+        <div class="input_form">
+            <span># Nombre del producto</span>
+            <input id="input_title" type="text" placeholder="Nombre del producto">
+        </div>
+        <div class="input_form">
+            <span># Descripción del producto</span>
+            <input id="input_description" type="text" placeholder="Descripción del producto">
+        </div>
+        <div class="input_form">
+            <span># Código del producto</span>
+            <input id="input_code" type="text" placeholder="Código del producto">
+        </div>
+        <div class="input_form">
+            <span># Precio del producto</span>
+            <input id="input_price" type="text" placeholder="Precio del producto">
+        </div>
+        <div class="input_form">
+            <span># Disponibilidad del producto</span>
+            <input id="input_status" type="text" disabled value="true">
+        </div>
+        <div class="input_form">
+            <span># Stock del producto</span>
+            <input id="input_stock" type="number" placeholder="Stock">
+        </div>
+        <div class="input_form">
+            <span># Categoria del producto</span>
+            <input id="input_category" type="text" placeholder="Categoria">
+        </div>
+        <div class="input_form">
+            <span># Fotos del producto</span>
+            <input id="input_thunbnails" type="text" placeholder="Url de la miniatura">
+        </div>
+        <div class="input_form">
+            <input class="btn" type="submit" value="Agregar" id="input_btnSubmit">
+        </div>
+    </form>
+</body>
+
+</html>

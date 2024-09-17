@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "description": "A novel about racial injustice in the Deep South.",
+    "code": "TKAM123",
+    "price": 10.99,
+    "status": true,
+    "stock": 50,
+    "category": "Fiction",
+    "thumbnails": [
+      "https://example.com/tkam1.jpg",
+      "https://example.com/tkam2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "description": "A dystopian social science fiction novel and cautionary tale.",
+    "code": "1984XYZ",
+    "price": 12.99,
+    "status": true,
+    "stock": 30,
+    "category": "Dystopian",
+    "thumbnails": [
+      "https://example.com/1984_1.jpg",
+      "https://example.com/1984_2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "description": "A romantic novel that critiques the British landed gentry.",
+    "code": "PAP456",
+    "price": 8.99,
+    "status": true,
+    "stock": 40,
+    "category": "Romance",
+    "thumbnails": [
+      "https://example.com/pap1.jpg",
+      "https://example.com/pap2.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "description": "A novel about the American Dream and societal excess.",
+    "code": "GG789",
+    "price": 14.99,
+    "status": true,
+    "stock": 25,
+    "category": "Classic",
+    "thumbnails": [
+      "https://example.com/gg1.jpg",
+      "https://example.com/gg2.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Moby Dick",
+    "description": "A novel about the voyage of the whaling ship Pequod.",
+    "code": "MD321",
+    "price": 11.99,
+    "status": true,
+    "stock": 15,
+    "category": "Adventure",
+    "thumbnails": [
+      "https://example.com/md1.jpg",
+      "https://example.com/md2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "description": "A novel about teenage angst and alienation.",
+    "code": "CC654",
+    "price": 9.99,
+    "status": true,
+    "stock": 35,
+    "category": "Literature",
+    "thumbnails": [
+      "https://example.com/cc1.jpg",
+      "https://example.com/cc2.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "description": "A fantasy novel about the journey of Bilbo Baggins.",
+    "code": "TH777",
+    "price": 13.99,
+    "status": true,
+    "stock": 45,
+    "category": "Fantasy",
+    "thumbnails": [
+      "https://example.com/th1.jpg",
+      "https://example.com/th2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Jane Eyre",
+    "description": "A novel about a woman's quest for independence and self-respect.",
+    "code": "JE888",
+    "price": 10.49,
+    "status": true,
+    "stock": 20,
+    "category": "Gothic",
+    "thumbnails": [
+      "https://example.com/je1.jpg",
+      "https://example.com/je2.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Brave New World",
+    "description": "A dystopian novel set in a futuristic society.",
+    "code": "BNW999",
+    "price": 15.49,
+    "status": true,
+    "stock": 10,
+    "category": "Science Fiction",
+    "thumbnails": [
+      "https://example.com/bnw1.jpg",
+      "https://example.com/bnw2.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Wuthering Heights",
+    "description": "A novel about the turbulent romance between Catherine Earnshaw and Heathcliff.",
+    "code": "WH000",
+    "price": 12.49,
+    "status": true,
+    "stock": 28,
+    "category": "Classic",
+    "thumbnails": [
+      "https://example.com/wh1.jpg",
+      "https://example.com/wh2.jpg"
+    ]
+  }
+]
